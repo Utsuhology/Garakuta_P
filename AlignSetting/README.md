@@ -1,0 +1,2 @@
+# AlignSetting
+processingのtextAlign(CENTER,CENTER)ではy座標が微妙に中心に来ないのでその解決策を示したコード

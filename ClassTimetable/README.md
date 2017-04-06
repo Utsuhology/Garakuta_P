@@ -1,0 +1,2 @@
+# ClassTimetable
+時間割表　編集WindowにJFrameをつかっている　PApplet→JFrameは使い勝手いいよな
