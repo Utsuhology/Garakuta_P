@@ -1,2 +1,2 @@
 # Garakuta_P
-Jankyard filled with some processing codes
+Junkyard filled with some processing codes
